@@ -22,7 +22,7 @@ namespace CryptoExamples
 				// vector (IV). 
 				using (var random = new RNGCryptoServiceProvider())
 				{
-					var key = new byte[16];
+					var key = new byte[64];
 					random.GetBytes(key);
 
 					// Encrypt the string to an array of bytes. 

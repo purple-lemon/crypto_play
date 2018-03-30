@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoExamples", "CryptoExamples\CryptoExamples.csproj", "{DDC24BF9-BC74-421B-A180-46B3DF1B0AC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoExamples_core", "CryptoExamples_core\CryptoExamples_core.csproj", "{2D3D419B-38D6-4ED0-8348-937085AD7BAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DDC24BF9-BC74-421B-A180-46B3DF1B0AC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDC24BF9-BC74-421B-A180-46B3DF1B0AC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDC24BF9-BC74-421B-A180-46B3DF1B0AC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D3D419B-38D6-4ED0-8348-937085AD7BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3D419B-38D6-4ED0-8348-937085AD7BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3D419B-38D6-4ED0-8348-937085AD7BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3D419B-38D6-4ED0-8348-937085AD7BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
