@@ -1,2 +1,2 @@
-Master branch;
+Master branch; SideBranch;
 Original case: 123
